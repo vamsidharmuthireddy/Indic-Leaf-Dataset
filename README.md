@@ -1,6 +1,6 @@
 # Indic-Leaf-Dataset
 
-This dataset is used in the paper, 'Indian Plant Recognition in the Wild'. You can read the specifics of the dataset in the following link.
+This dataset is used in the paper, "Indian Plant Recognition in the Wild". You can read the specifics of the dataset in the following link.
 
 Paper link: http://cvit.iiit.ac.in/images/ConferencePapers/2019/Recognition_Wild_ncvpripg19.pdf
 
