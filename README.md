@@ -6,11 +6,11 @@ Paper link: http://cvit.iiit.ac.in/images/ConferencePapers/2019/Recognition_Wild
 
 
 
-If you want to download a tar.gz file: [Link-1](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/vamsidhar_muthireddy_research_iiit_ac_in/EdWRJ3vxoCNBrse8oz2p_VwBMTrDL60sJgi4g7yCIq4OJg)
+Download link for the tar.gz file of the dataset: [Link-1](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/vamsidhar_muthireddy_research_iiit_ac_in/EdWRJ3vxoCNBrse8oz2p_VwBMTrDL60sJgi4g7yCIq4OJg)
 
 
 
-**Dataset Structure**
+## **Dataset Structure** ##
 
 The structure of the dataset is as follows.
 
@@ -32,6 +32,22 @@ The structure of the dataset is as follows.
  5. **📂Level-web** contains images that we collected from various online sources.
 
 
+ ![](demo_images/dataset01.png)
+ ![](demo_images/dataset23.png)
+
+ ## **Dataset Attributes**
+  The following [attributes](leaf_attributes.json) are given for each of the plant species in Indic-Leaf dataset.
+  > Scientific_Name \
+  > Common_Name \
+  > Family \
+  > Leaf_Shape \
+  > Leaf_margin_edge \
+  > Leaf_Division \
+  > Description \
+  > Utility \
+  > Common_diseases_and_Pests 
+
+  ## **Dataset Details**
 
  | Species | Class Name | Level-0 | Level-1 | Level-2 | Level-3 | Level-web | Total | 
  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- 
@@ -155,11 +171,13 @@ The structure of the dataset is as follows.
 
 
 
-If you are using Indic-Leaf-Dataset, please cite us as the following.
+## **Citation**
 
-@article{muthireddyindian,
+> @article{muthireddyindian,
   title={Indian Plant Recognition in the Wild},
   author={Muthireddy, Vamsidhar and Jawahar, CV},
   journal={7th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG 2019)},
   year={2019}
 }
+
+## **License**
